@@ -1,2 +1,2 @@
-# dashboard-ejecutivo-360-powerbi
+# Dashboard Ejecutivo 360 Power BI
 Dashboard Ejecutivo para Dirección Comercial.

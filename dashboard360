@@ -1,0 +1,14 @@
+dashboard-ejecutivo-360-powerbi/
+│
+├── README.md
+├── assets/
+│   ├── portada.png          ← la portada que ya tienes
+│   ├── direccion-general.png
+│   ├── performance.png
+│   └── clientes-rfm.png
+├── sql/
+│   └── consultas_base.sql   ← queries que alimentan el modelo
+├── dax/
+│   └── medidas_principales.md  ← tus fórmulas DAX documentadas
+└── docs/
+    └── diccionario_datos.md ← descripción de campos y fuentes

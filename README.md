@@ -48,14 +48,17 @@ El modelo integra **10 páginas analíticas** conectadas bajo una lógica ejecut
 
 > *El negocio vende $4,755,651 con un margen saludable (32.6%), pero no alcanza la meta (87.9%) y presenta crecimiento negativo (-1.0%). No hay clientes VIP en riesgo. La ejecución requiere atención.*
 
-**Insight 1**
-El negocio mantiene un margen sólido (33%), pero alcanza solo el 88% de la meta comercial, generando una brecha relevante hacia el cierre del período.
+**Insight 1 — El negocio opera con margen sólido pero incumple la meta comercial**
+El KPI Rector Ejecutivo se ubica en 92.5 sobre 100, con ventas totales de $5M y un margen bruto del 33%. Sin embargo, el cumplimiento de meta alcanza solo el 88%, lo que implica una brecha activa de $720K sin cerrar frente al objetivo de $6M. El semáforo ejecutivo clasifica el estado como *Controlado*, pero la brecha es material y requiere gestión activa antes del cierre del período.
 
-**Insight 2**
-El crecimiento anual permanece negativo (-1%), reflejando una demanda sin señales consistentes de recuperación.
+**Insight 2 — El crecimiento YoY es negativo y la curva mensual muestra volatilidad sin tendencia clara**
+El crecimiento año contra año se sitúa en -1%, con una evolución mensual que oscila entre $361K (febrero) y $415K (noviembre) sin una tendencia sostenida al alza. La comparación contra el año anterior (línea punteada) evidencia que el negocio está por debajo de su propio ritmo histórico en la mayoría de los meses, lo que descarta la hipótesis de estacionalidad favorable.
+
+**Insight 3 — Ropa concentra el 42% del revenue total con un margen idéntico al resto de categorías**
+La distribución por categoría muestra que Ropa genera el 42% de las ventas, seguida de Calzado (32%) y Accesorios (26%). Los tres segmentos operan con un margen bruto uniforme del 33%, lo que indica que la palanca de crecimiento es volumétrica, no de precio ni de mix de producto.
 
 **Recomendación prioritaria**
-Concentrar los esfuerzos comerciales en la categoría Ropa, principal generadora de ingresos, mediante iniciativas orientadas a acelerar la conversión y recuperar el ritmo de crecimiento sin comprometer la rentabilidad.
+Activar un plan de cierre enfocado en la categoría Ropa — mayor volumen, mismo margen — para reducir la brecha de $720K vs meta. La uniformidad de márgenes descarta cambios de pricing como palanca inmediata; el foco debe estar en conversión y activación comercial.
 
 ---
 
